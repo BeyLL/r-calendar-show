@@ -1,2 +1,4 @@
-/.idea
+.babelrc
+.gitignore/
+.idea/
 /node_modules

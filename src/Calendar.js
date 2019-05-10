@@ -1,9 +1,9 @@
 'use strict';
 import React, { Component } from 'react';
-import { Icon } from 'antd';
+import { Icon } from 'antd/lib/index';
 import _ from 'lodash';
 
-import styles from './index.less';
+import styles from './Calendar.less';
 
 class Calendar extends Component {
   constructor(props) {
